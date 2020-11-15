@@ -1,0 +1,20 @@
+/* General Styles */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item:hover, .active {
+  background: deeppink;
+}
+
+.navbar .form-inline .btn-primary {
+  background-color: deeppink;
+  border-color: deeppink;
+}
+
+.navbar .form-inline .btn-primary:hover {
+  background-color: rgb(247, 0, 132);
+  border-color: rgb(247, 0, 132);
+}
