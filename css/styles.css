@@ -18,3 +18,8 @@ body {
   background-color: rgb(247, 0, 132);
   border-color: rgb(247, 0, 132);
 }
+
+.navbar .form-inline .form-control:focus {
+  outline: deeppink;
+  border-color: deeppink;
+}
